@@ -1,0 +1,509 @@
+* {box-sizing:border-box;
+
+  }
+
+.nav
+{
+  width: 1260.9px;
+    height: 98.28px;
+    left: 10px;
+    top: 99.13px;
+    background:  #C4C4C4;;
+
+}
+.emblem
+{
+      position: absolute;
+      width: 292.91px;
+      height: 97.93px;
+      left: -0.57px;
+      top: 0.17px;
+  }
+
+.emblem>h5
+{
+  position: absolute;
+width: 442.91px;
+height: 6.38px;
+left: 45.43px;
+top: 21.47px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 700;
+font-size: 35.58px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #000000;
+}
+.signUp
+{/* SIGN UP LOG IN */
+
+  position: absolute;
+  width: 899.16px;
+  left: 600.35px;
+  top: 44.5px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25.58px;
+  line-height: 0px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #000000;
+}
+
+.logIn
+{/* SIGN UP LOG IN */
+
+  position: absolute;
+  width: 899.16px;
+  left: 750.35px;
+  top: 44.5px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25.58px;
+  line-height: 0px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #000000;
+}
+
+.design1
+{
+
+    position: absolute;
+    width: 186.66px;
+    height: 186.66px;
+    left: 402px;
+    top: 88.13px;
+}
+.design2
+{
+
+    position: absolute;
+    width: 186.66px;
+    height: 186.66px;
+    left: 456px;
+    top: 88.13px;
+}
+.design3
+{
+
+    position: absolute;
+    width: 186.66px;
+    height:186.66px;
+    left:484.96px;
+    top:124.41px;
+}
+.design4
+{
+
+    position: absolute;
+    width: 186.66px;
+    height: 186.66px;
+    left: 429.97px;
+    top:136.78px;
+}
+
+.d_text
+{
+  position: absolute;
+
+
+  width: 442.91px;
+    height: 296.38px;
+    left:871.97px;
+    top:276.78px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35.58px;
+  transform: rotate(90deg);
+
+}
+
+.cover
+{
+  /* cover image  */
+
+  position: absolute;
+  width: 674.66px;
+  height: 410.71px;
+  left: 10px;
+  top: 59.13px;
+}
+
+
+/* searchbox */
+.search
+{
+  /* Rectangle 50 */
+
+position: absolute;
+width: 1247.9px;
+
+height: 98.28px;
+left: 10.57px;
+top: 514.02px;
+border-radius: 32.2318px;
+
+background: #FFEDED;
+}
+.Search_O>h1
+{
+  /* Opportunities to serve at Reach 2021 */
+
+
+  position: absolute;
+  width: 561.27px;
+  /* width: auto; */
+  height: 45.62px;
+  left: 1.97px;
+  top: 535.5px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25.58px;
+  line-height: 0px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #000000;
+}
+
+
+.Search_I>h2
+{
+  /* Opportunities to serve at Reach 2021 */
+
+
+  position: absolute;
+  width: 326.27px;
+
+  top: 569.5px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 100;
+  font-size:20.58px;
+  line-height: 0px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #000000;
+}
+/* Inside the search box */
+.search_I
+{
+  /* Rectangle 51 */
+
+position: absolute;
+width: 561.27px;
+/* width: auto; */
+height: 35.62px;
+left: 28.97px;
+top: 552.5px;
+
+background: #FFFFFF;
+border-radius: 54.2318px;
+
+}
+
+/* Right side of events boxes */
+.eventL
+{
+  position: absolute;
+
+    width: 442.91px;
+      height: 296.38px;
+      left: 23.43px;
+      top: 689.47px;
+      background: cadetblue;
+}
+.eventLs
+{
+  position: absolute;
+
+    width: 442.91px;
+      height: 82.38px;
+      left: 23.43px;
+      top: 903.47px;
+      background:  #FFAE68;
+}
+.Egyam>h1
+{
+  position: absolute;
+
+    width: 442.91px;
+      height:0px;
+      left: 23.43px;
+      top:783.47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35.58px;
+
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}
+  .eventR
+  {
+    position: absolute;
+
+      width: 442.91px;
+        height: 296.38px;
+        left: 803.43px;
+        top: 689.47px;
+        background: cadetblue;
+
+  }
+
+  .eventRs
+  {
+    position: absolute;
+
+      width: 442.91px;
+        height: 82.38px;
+        left: 803.43px;
+        top: 903.47px;
+        background:  #FFAE68;
+  }
+  /* Visit to Egyam Orphanage */
+
+
+
+/* Second line of events */
+.Egyam2>h1
+{
+  position: absolute;
+
+
+        width: 442.91px;
+          height: 296.38px;
+          left: 803.43px;
+          top: 783.47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35.58px;
+
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}
+
+
+
+
+
+
+/* Next line of events boxes */
+.eventL2
+{
+  position: absolute;
+
+    width: 442.91px;
+      height: 296.38px;
+      left: 23.43px;
+      top: 1078.47px;
+      background: cadetblue;
+}
+.eventLs2
+{
+  position: absolute;
+
+    width: 442.91px;
+      height: 82.38px;
+      left: 23.43px;
+      top: 1292.47px;
+      background:  #FFAE68;
+}
+.Egyam3>h1
+{
+  position: absolute;
+
+    width: 442.91px;
+      height: 296.38px;
+      left: 23.43px;
+      top: 1180.47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35.58px;
+
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}
+  .eventR2
+  {
+    position: absolute;
+
+      width: 442.91px;
+        height: 296.38px;
+        left: 803.43px;
+        top: 1078.47px;
+        background: cadetblue;
+
+  }
+
+  .eventRs2
+  {
+    position: absolute;
+
+      width: 442.91px;
+        height: 82.38px;
+        left: 803.43px;
+        top: 1292.47px;
+        background:  #FFAE68;
+  }
+  /* Visit to Egyam Orphanage */
+
+
+
+/* Second line of events */
+.Egyam31>h1
+{
+  position: absolute;
+
+
+  width: 442.91px;
+    height: 296.38px;
+    left: 803.43px;
+          top: 1180.47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35.58px;
+
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}
+
+
+
+
+
+.eventL3
+{
+  position: absolute;
+
+    width: 442.91px;
+      height: 296.38px;
+      left: 23.43px;
+      top: 1467.47px;
+      background: cadetblue;
+}
+.eventLs3
+{
+  position: absolute;
+
+    width: 442.91px;
+      height: 82.38px;
+      left: 23.43px;
+      top: 1681.47px;
+      background:  #FFAE68;
+}
+.Egyam4>h1
+{
+  position: absolute;
+
+    width: 442.91px;
+      height: 296.38px;
+      left: 23.43px;
+      top: 1580.47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35.58px;
+
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}
+  .eventR3
+  {
+    position: absolute;
+
+      width: 442.91px;
+        height: 296.38px;
+        left: 803.43px;
+        top: 1467.47px;
+        background: cadetblue;
+
+  }
+
+  .eventRs3
+  {
+    position: absolute;
+
+      width: 442.91px;
+        height: 82.38px;
+        left: 803.43px;
+        top: 1681.47px;
+        background:  #FFAE68;
+  }
+  /* Visit to Egyam Orphanage */
+
+
+
+/* Second line of events */
+.Egyam41>h1
+{
+  position: absolute;
+
+
+  width: 442.91px;
+    height: 296.38px;
+    left: 803.43px;
+          top: 1580.47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35.58px;
+
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}

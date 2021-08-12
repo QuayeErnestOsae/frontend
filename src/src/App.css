@@ -1,0 +1,58 @@
+body
+{
+  background-color:#000000;
+}
+
+button{
+position: absolute;
+width: 153px;
+height: 51px;
+left: 881px;
+top: 3040px;
+
+background: #E5E5E5;
+border-radius: 50px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+}
+
+.donate
+{
+  position: absolute;
+  width: 153px;
+  height: 51px;
+  left: 400px;
+  top: 3040px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+#signup
+{
+  position: absolute;
+  width: 153px;
+  height: 51px;
+  left: 640px;
+  top: 3040px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
